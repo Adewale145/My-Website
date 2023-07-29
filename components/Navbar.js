@@ -31,7 +31,7 @@ import Razsorhub2 from '../public/Razsorhub 2.jpg'
                 <li>
                 <Link href='/'>
                   <button className='border border-teal-700 rounded-md text-[rgb(1,83,83)] ml-5 px-3 py-1 hover:bg-[rgb(237,199,147)] hover:text-white hover:border-none'>
-                    Contact
+                    Let's Talk
                   </button>
                 </Link> 
               </li>
